@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# LoQooMarket Producer
+> The supportive objects helping LoQooMarket Producer Apps chug and churn.
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
@@ -8,17 +8,14 @@
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-One to two paragraph statement about your product and what it does.
-
+This code is the basis of a LoQooMarket Producer App.
 ![](header.png)
 
 ## Features
 
 - [x] Feature 1
 - [x] Feature 2
-- [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
+
 
 ## Requirements
 
@@ -63,16 +60,7 @@ ez.detectScreenShot { () -> () in
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
+
 * 0.0.1
     * Work in progress
 
@@ -82,11 +70,11 @@ We would love for you to contribute to **YourLibraryName**, check the ``LICENSE`
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Your Name – [@YourTwitter](https://twitter.com/sirvonthomas) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/yourname/github-link](https://github.com/sirvonthomas/)
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
